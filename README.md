@@ -240,6 +240,7 @@ This project is created for educational purposes as part of Assignment 8.
 ---
 
 **Live Demo**: The application is running on `http://localhost:5173/` with hot module replacement enabled for development.
+**Vercel Link**:https://hashbit-assignment-8-4cvzjh59q-sarveshs-projects-e4dd234d.vercel.app/
 
 ## 🎬 Indian Movie Collection
 
