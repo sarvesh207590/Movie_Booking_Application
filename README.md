@@ -3,8 +3,7 @@
 A comprehensive 4-page movie booking application built with React, Vite, and Bootstrap featuring popular Indian movies. This application provides a complete movie booking experience from browsing Bollywood, Tollywood, and regional Indian cinema to confirmation.
 
 ## 🔗 Live Demo  
-👉 https://vercel.com/sarveshs-projects-e4dd234d/movie-booking-application  
-
+👉 https://movie-booking-application-omega.vercel.app/
 
 ## 🎬 Application Flow
 
