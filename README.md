@@ -2,6 +2,10 @@
 
 A comprehensive 4-page movie booking application built with React, Vite, and Bootstrap featuring popular Indian movies. This application provides a complete movie booking experience from browsing Bollywood, Tollywood, and regional Indian cinema to confirmation.
 
+## 🔗 Live Demo  
+👉 https://vercel.com/sarveshs-projects-e4dd234d/movie-booking-application  
+
+
 ## 🎬 Application Flow
 
 ### Page 1: Movie List (20 Indian Movies in 4x4 Grid)
